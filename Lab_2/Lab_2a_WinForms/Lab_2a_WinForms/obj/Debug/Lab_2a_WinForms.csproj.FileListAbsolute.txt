@@ -1,0 +1,10 @@
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\bin\Debug\Lab_2a_WinForms.exe.config
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\bin\Debug\Lab_2a_WinForms.exe
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\bin\Debug\Lab_2a_WinForms.pdb
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csprojResolveAssemblyReference.cache
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.Form1.resources
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.Properties.Resources.resources
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csproj.GenerateResource.Cache
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.exe
+C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.pdb
