@@ -16,3 +16,12 @@ D:\Study\3 Course\2 семестр\ASP.NET\Лабораторные\Lab_1b\Lab_1
 D:\Study\3 Course\2 семестр\ASP.NET\Лабораторные\Lab_1b\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
 D:\Study\3 Course\2 семестр\ASP.NET\Лабораторные\Lab_1b\Lab_1\obj\Debug\Lab_1.dll
 D:\Study\3 Course\2 семестр\ASP.NET\Лабораторные\Lab_1b\Lab_1\obj\Debug\Lab_1.pdb
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\bin\Lab_1.dll.config
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\bin\Lab_1.dll
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\bin\Lab_1.pdb
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\obj\Debug\Lab_1.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\obj\Debug\Lab_1.dll
+D:\GitHub\ASP.NET\Lab_1\Lab_1b\Lab_1\obj\Debug\Lab_1.pdb

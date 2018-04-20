@@ -7,3 +7,12 @@ C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojResolveAss
 C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
 C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
 C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
