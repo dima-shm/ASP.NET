@@ -21,7 +21,7 @@ namespace Lab_2a_WinForms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://localhost:45001/test.sda");
+            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:45001/Lab_2a/test.sda");
             request.Method = "POST";
 
             byte[] parameters = System.Text.Encoding.ASCII.GetBytes("ParmA=3&ParmB=4");

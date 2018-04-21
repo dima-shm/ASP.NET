@@ -8,3 +8,13 @@ C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinF
 C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csproj.CoreCompileInputs.cache
 C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.exe
 C:\Users\dimas\Desktop\ASP\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.pdb
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\bin\Debug\Lab_2a_WinForms.exe.config
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\bin\Debug\Lab_2a_WinForms.exe
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\bin\Debug\Lab_2a_WinForms.pdb
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.Form1.resources
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.Properties.Resources.resources
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csproj.GenerateResource.Cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.exe
+D:\GitHub\ASP.NET\Lab_2\Lab_2a_WinForms\Lab_2a_WinForms\obj\Debug\Lab_2a_WinForms.pdb

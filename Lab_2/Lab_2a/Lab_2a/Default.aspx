@@ -14,7 +14,7 @@
             var txt2 = document.getElementById("TextBox2");
             var lbl1 = document.getElementById("Label1");
 
-            request.open("POST", "http://localhost:45001/sum.sum?X=" +
+            request.open("POST", "http://172.16.193.174:45001/Lab_2a/sum.sum?X=" +
                 txt1.value + "&Y=" + txt2.value, true);
             request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
 
