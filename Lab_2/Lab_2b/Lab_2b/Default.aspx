@@ -31,7 +31,7 @@
 
         function exe_start() {
             if (ws == null) {
-                ws = new WebSocket('ws://172.16.193.174:45001/Websokets.websocket');
+                ws = new WebSocket('ws://172.16.193.174:40751/Lab_2/Lab_2b/Websokets.websocket');
                 ws.onopen = function () { ws.send('Соединение'); }
                 ws.onclose = function (s) { console.log('onclose', s); }
                 ws.onmessage = function (evt) { ta.innerHTML += '\n' + evt.data; }

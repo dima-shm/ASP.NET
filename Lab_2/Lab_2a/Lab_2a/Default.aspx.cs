@@ -18,7 +18,7 @@ namespace Lab_2a
 
         protected void ButtonGet_Click(object sender, EventArgs e)
         {
-            HttpWebRequest request = (HttpWebRequest) HttpWebRequest.Create("http://172.16.193.174:45001/Lab_2a/test.sda?ParmA=1&ParmB=2");
+            HttpWebRequest request = (HttpWebRequest) HttpWebRequest.Create("http://172.16.193.174:40751/Lab_2/Lab_2a/test.sda?ParmA=1&ParmB=2");
             request.Method = "GET";
 
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
@@ -28,7 +28,7 @@ namespace Lab_2a
 
         protected void ButtonPost_Click(object sender, EventArgs e)
         {
-            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:45001/Lab_2a/test.sda");
+            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:40751/Lab_2/Lab_2a/test.sda");
             request.Method = "POST";
             
             byte[] parameters = System.Text.Encoding.ASCII.GetBytes("ParmA=3&ParmB=4");
@@ -46,7 +46,7 @@ namespace Lab_2a
 
         protected void ButtonPut_Click(object sender, EventArgs e)
         {
-            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:45001/Lab_2a/test.sda");
+            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:40751/Lab_2/Lab_2a/test.sda");
             request.Method = "PUT";
 
             byte[] parameters = System.Text.Encoding.ASCII.GetBytes("ParmA=5&ParmB=6");
@@ -66,7 +66,7 @@ namespace Lab_2a
         {
             try
             {
-                HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:45001/Lab_2a/test.deny");
+                HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://172.16.193.174:40751/Lab_2/Lab_2a/test.deny");
                 request.Method = "GET";
 
                 HttpWebResponse response = (HttpWebResponse)request.GetResponse();

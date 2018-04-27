@@ -9,21 +9,20 @@ namespace Lab_3c
 {
     public partial class FFE : System.Web.UI.Page
     {
-        private string tag = "currentAddRotatorPosition";
         private string[] keywords = { "", "b1", "b2" };
 
-        private int CuurentAddRotatorPosition
+        private int CuurentAdRotatorPosition
         {
             set
             {
-                ViewState[tag] = value;
+                ViewState["AdRotatorPosition"] = value;
             }
             get
             {
-                object value = ViewState[tag];
+                object value = ViewState["AdRotatorPosition"];
                 if (value == null)
-                    ViewState[tag] = 0;
-                return (int)ViewState[tag];
+                    ViewState["AdRotatorPosition"] = 0;
+                return (int)ViewState["AdRotatorPosition"];
             }
         }
 
@@ -54,7 +53,7 @@ namespace Lab_3c
 
         protected void Button5_Click(object sender, EventArgs e)
         {
-            int newPosition = ++CuurentAddRotatorPosition % keywords.Length;
+            int newPosition = ++CuurentAdRotatorPosition % keywords.Length;
             AdRotator1.KeywordFilter = keywords[newPosition];
             Button5.Text = keywords[newPosition];
         }
