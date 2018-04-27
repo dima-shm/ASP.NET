@@ -1,0 +1,11 @@
+﻿.button {
+    width: 200px;
+    height: 50px;
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.text {
+    font-size: 14px;
+    color: magenta;
+}

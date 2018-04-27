@@ -1,0 +1,9 @@
+﻿<asp:Button runat="server" 
+    Width="200" Height="50" BackColor="Red" Font-Italic="true" ForeColor="White" />
+<asp:TextBox runat="server" 
+    Width="200" Height="50" />
+<asp:Label runat="server" 
+    BackColor="Red" Font-size="18" Font-Italic="true" />
+<asp:Label runat="server" 
+    BackColor="Green" Font-size="18"  Font-Italic="true" 
+    SkinID="GreenLabel" />

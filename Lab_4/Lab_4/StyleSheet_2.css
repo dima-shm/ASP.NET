@@ -1,0 +1,12 @@
+﻿#menu ul {
+    text-align: center;
+}
+
+#menu li {
+    padding: 10px;
+    display: inline;
+}
+
+#menu a {
+    color: #57BFEA;
+}

@@ -1,0 +1,9 @@
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\bin\Lab_4.dll.config
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\bin\Lab_4.dll
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\bin\Lab_4.pdb
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.dll
+C:\Users\dimas\Desktop\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
