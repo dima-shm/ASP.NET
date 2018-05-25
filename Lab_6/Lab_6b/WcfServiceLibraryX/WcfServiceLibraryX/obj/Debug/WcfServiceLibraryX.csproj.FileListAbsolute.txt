@@ -1,0 +1,14 @@
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.dll.config
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.dll
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.pdb
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.csprojResolveAssemblyReference.cache
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.dll
+C:\Users\dimas\Desktop\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.pdb
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.dll
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.pdb
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.csprojResolveAssemblyReference.cache
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.dll
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.pdb
+C:\Users\dimas\Desktop\Lab_6\Lab_6b\WcfServiceLibraryX\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.dll.config

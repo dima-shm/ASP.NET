@@ -1,0 +1,9 @@
+C:\Users\dimas\Desktop\XXXService\XXXService\bin\XXXService.dll.config
+C:\Users\dimas\Desktop\XXXService\XXXService\bin\XXXService.dll
+C:\Users\dimas\Desktop\XXXService\XXXService\bin\XXXService.pdb
+C:\Users\dimas\Desktop\XXXService\XXXService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Desktop\XXXService\XXXService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Desktop\XXXService\XXXService\obj\Debug\XXXService.csprojResolveAssemblyReference.cache
+C:\Users\dimas\Desktop\XXXService\XXXService\obj\Debug\XXXService.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\XXXService\XXXService\obj\Debug\XXXService.dll
+C:\Users\dimas\Desktop\XXXService\XXXService\obj\Debug\XXXService.pdb
