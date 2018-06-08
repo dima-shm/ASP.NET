@@ -1,0 +1,48 @@
+﻿@model Lab_7.Models.Person
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <form method="post">
+        <h4>Person</h4>
+        <hr />
+        <table>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Surname)</td>
+                <td>@Html.EditorFor(model => model.Surname)</td>
+                <td>@Html.ValidationMessageFor(model => model.Surname)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Firstname)</td>
+                <td>@Html.EditorFor(model => model.Firstname)</td>
+                <td>@Html.ValidationMessageFor(model => model.Firstname)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Middlename)</td>
+                <td>@Html.EditorFor(model => model.Middlename)</td>
+                <td>@Html.ValidationMessageFor(model => model.Middlename)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BDay)</td>
+                <td>@Html.EditorFor(model => model.BDay)</td>
+                <td>@Html.ValidationMessageFor(model => model.BDay)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Phone)</td>
+                <td>@Html.EditorFor(model => model.Phone)</td>
+                <td>@Html.ValidationMessageFor(model => model.Phone)</td>
+            </tr>
+        </table>
+        <input type="submit" value="Add"/>
+        <p>@Html.ActionLink("Back", "Index")</p>
+    </form>
+</body>
+</html>

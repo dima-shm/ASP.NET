@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Lab_7.Models.Person>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form>
+        <h4>Persons</h4>
+        <hr />
+        <table>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Surname)</th>
+                <th>@Html.DisplayNameFor(model => model.Firstname)</th>
+                <th>@Html.DisplayNameFor(model => model.Middlename)</th>
+                <th>@Html.DisplayNameFor(model => model.BDay)</th>
+                <th>@Html.DisplayNameFor(model => model.Phone)</th>
+                <th>Действие </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Surname)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Firstname)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Middlename)</td>
+                    <td>@Html.DisplayFor(modelItem => item.BDay)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                    <td>
+                        @Html.ActionLink("Update", "Update", new { phone = item.Phone }) |
+                        @Html.ActionLink("Delete", "Delete", new { phone = item.Phone })
+                    </td>
+                </tr>
+            }
+        </table>
+        <p>@Html.ActionLink("Add", "Add")</p>
+    </form>
+</body>
+</html>
