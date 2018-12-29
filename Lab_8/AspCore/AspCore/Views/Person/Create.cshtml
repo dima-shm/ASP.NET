@@ -1,0 +1,60 @@
+﻿@model AspCore.Models.Person
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+    <h4>Person</h4>
+    <hr />
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <table style="background-color:darkgrey;" width="60%">
+            <tr>
+                <td><label asp-for="Surname" class="control-label"></label></td>
+                <td><input asp-for="Surname" class="form-control" /></td>
+                <td><span asp-validation-for="Surname" class="text-danger"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Firstname" class="control-label"></label></td>
+                <td><input asp-for="Firstname" class="form-control" /></td>
+                <td><span asp-validation-for="Firstname" class="text-danger"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="BDay" class="control-label"></label></td>
+                <td><input asp-for="BDay" class="form-control" /></td>
+                <td><span asp-validation-for="BDay" class="text-danger"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Gender" class="control-label"></label></td>
+                <td>
+                    <div id="RadioButtonGroup">
+                        <label asp-for="Gender" class="radio-inline">
+                            <input asp-for="Gender" value="Male" type="radio" class="form-control-static">Мужской
+                        </label>
+                        <label asp-for="Gender" class="radio-inline">
+                            <input asp-for="Gender" value="Female" type="radio" class="form-control-static">Женский
+                        </label>
+                    </div>
+                </td>
+                <td><span asp-validation-for="Gender" class="text-danger"></span></td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-default" />
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <a asp-action="Index">Назад</a>
+</body>
+</html>
