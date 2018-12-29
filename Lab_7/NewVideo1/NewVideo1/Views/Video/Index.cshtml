@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                @foreach (var item in ViewBag.Catalogs)
+                {
+                    <a target="video_frame" href='@Url.Action("GetVideo")?name=@item'>@item</a>
+                    <br />
+                }
+            </td>
+            <td>
+                @using (Html.BeginForm("Upload", "Video", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <input type="file" name="upload" />
+                    <br>
+                    <input type="submit" value="Загрузить" />
+                }
+            </td>
+            <td>
+                <iframe name="video_frame" style="width:915px;height:540px" />
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
